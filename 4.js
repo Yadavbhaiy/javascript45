@@ -24,6 +24,8 @@ const input = "Hello world";
 const output = replaceHelloWithHi(input);
 console.log(output); // Output: "Hi world! Hi everyone!"
 
+// ggghhhdcls
+
 
 
 
